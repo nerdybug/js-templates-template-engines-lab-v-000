@@ -1,1 +1,1 @@
-createPost() = ;
+fn createPost() = ;
