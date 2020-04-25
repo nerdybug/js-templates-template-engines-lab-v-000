@@ -1,3 +1,4 @@
 function createPost() {
-  var formData = document.getElementById('post-form').innerHTML;
+  var formData = document.getElementById('post-form').value;
+  
 } ;
