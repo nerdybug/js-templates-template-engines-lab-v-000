@@ -1,1 +1,1 @@
-function createPost() = ;
+function createPost() {} ;
