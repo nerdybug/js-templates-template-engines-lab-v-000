@@ -1,1 +1,1 @@
-fn createPost() = ;
+let createPost() = ;
