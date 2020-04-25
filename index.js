@@ -1,1 +1,1 @@
-let createPost() = ;
+function createPost() = ;
